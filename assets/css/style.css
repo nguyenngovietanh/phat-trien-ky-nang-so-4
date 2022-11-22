@@ -798,7 +798,7 @@ footer {
   }
   /* header 540 end */
   .main-container h2 {
-    font-size: 24px;
+    font-size: 22px;
   }
   .video-container video {
     height: 315px;
@@ -841,6 +841,10 @@ footer {
   .video-container video {
     height: 280px;
   }
+  .main-container h2 {
+    font-size: 20px;
+    margin-bottom: 0;
+  }
 }
 @media only screen and (max-width:420px) {
   /* header 420 start */
@@ -871,10 +875,10 @@ footer {
     padding-bottom: 25px;
   }
   .main-container h2 {
-    font-size: 20px;
+    font-size: 18px;
   }
   .video-container {
-    margin-top: 18px;
+    margin-top: 10px;
   }
   .video-container video {
     height: 240px;
@@ -900,7 +904,7 @@ footer {
 }
 @media only screen and (max-width:390px) {
   .main-container h2 {
-    font-size: 18px;
+    font-size: 16px;
   }
   .video-container {
     margin-top: 10px;
